@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,oDAAyC;ACAjD,IAAK;EACJ,UAAU,EAAE,SAAS",
+"sources": ["custom_bootstrap.scss","custom.scss"],
+"names": [],
+"file": "main.css"
+}
